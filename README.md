@@ -26,12 +26,12 @@
   ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:"madeshsasikala8@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
-   <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sasikala-chandrasekaran-672279254/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:"sangeethalaxmi2005@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a> 
+   <a href="https://www.linkedin.com/in/sangeetha-suresh-880283337"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=madeshsasikala&show_icons=true&theme=radical" width="48%"/> 
+  <img src="https://github.com/sangeesuresh" width="48%"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madeshsasikala&layout=compact&theme=radical" width="48%"/> 
 </p>
 
@@ -63,5 +63,5 @@
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sasikala-chandrasekaran/)
-[![Email](https://img.shields.io/badge/Email-madeshsasikala8@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:madeshsasikala8@gmail.com)
+[![LinkedIn](https://www.linkedin.com/in/sangeetha-suresh-880283337?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Email](https://img.shields.io/badge/Email-sangeethalaxmi2005@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sangeethalaxmi2005@gmail.com)
